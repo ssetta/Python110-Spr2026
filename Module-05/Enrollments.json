@@ -1,0 +1,42 @@
+[
+  {
+    "FirstName": "Bob",
+    "LastName": "Smith",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Sue",
+    "LastName": "Jones",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Vic",
+    "LastName": "Vu",
+    "CourseName": "Python201"
+  },
+  {
+    "FirstName": "Vic",
+    "LastName": "Vu",
+    "CourseName": "Python201"
+  },
+  {
+    "FirstName": "Purple",
+    "LastName": "PeopleEater",
+    "CourseName": "Monsters101"
+  },
+  {
+    "FirstName": "Rosalind",
+    "LastName": "Franklin",
+    "CourseName": "Genetics101"
+  },
+  {
+    "FirstName": "Adrianne",
+    "LastName": "Lenker",
+    "CourseName": "Music101"
+  },
+  {
+    "FirstName": "Stevie",
+    "LastName": "Wonder",
+    "CourseName": "Music101"
+  }
+]
